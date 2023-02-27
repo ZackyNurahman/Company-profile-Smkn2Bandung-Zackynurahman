@@ -1,0 +1,62 @@
+.mitra{
+    margin: 300px 0 135px 0;
+    margin-left: 140px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 0;
+}
+
+.mitra h1{
+    font-weight: 100;
+    border-bottom: 1px solid black;
+    width: fit-content;
+}
+.sponsor{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.sponsor img{
+    width: 200px;
+    padding: 20px;
+}
+.icon{
+    transform: translateY(-30px) translateX(20px);
+    font-size: 20px;
+    cursor: pointer;
+}
+.arrow{
+    transform: translateY(35px) translateX(-20px);
+    font-size: 20px; 
+    cursor: pointer;
+}
+
+
+.ft{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.foto2 img{
+    width: 200px;
+}
+.foto2{
+    transform: translate(0, 15px);
+}
+
+.foto2 p{
+    width: 300px;
+}
+
+.text1{
+    width: 450px;
+    line-height: 20px;
+    margin: 30px;
+}
+.text1 p{
+    text-align: justify;
+}

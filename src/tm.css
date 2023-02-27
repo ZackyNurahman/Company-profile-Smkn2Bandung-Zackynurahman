@@ -1,0 +1,24 @@
+.all{
+    display: flex;
+    flex-direction: column;
+    margin-left: 150px;
+    margin-top: 45px;
+
+}
+
+.kata6{
+    transform: translateY(-40px);
+}
+
+.kata6 h1{
+    font-size: 20px;
+}
+
+.sponsor{
+    gap: 5px;
+}
+
+.judul4 h1{
+    margin-left: 20px;
+    font-size: calc(20px * 1.618);
+}
